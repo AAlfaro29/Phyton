@@ -41,4 +41,4 @@
 #program that takes the users name and height (in centimeters), and outputs a summary sentence
 name = (input("What is your name? "))
 height = int(input("How tall are you (cms)?"))
-print(f"{name}") + (int"{height}")
+print(f"{name} is {height} cms tall")
